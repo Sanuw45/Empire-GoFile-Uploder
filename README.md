@@ -27,7 +27,7 @@ python3 main.py
 
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gigameher473/Empire-GoFile-Uploder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanuw45/Empire-GoFile-Uploder)
 
 ## Variables
 
